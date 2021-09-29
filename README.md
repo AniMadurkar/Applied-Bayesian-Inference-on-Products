@@ -1,4 +1,4 @@
-# Applied-Bayesian-Inference
+# Applied Bayesian Inference
 
 This is the repo in accordance with these two Medium articles:
 1. [Applied Bayesian Inference with Python pt.1](https://towardsdatascience.com/applied-bayesian-inference-pt-1-322b25093f62)
