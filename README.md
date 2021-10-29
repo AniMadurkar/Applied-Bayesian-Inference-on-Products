@@ -1,6 +1,6 @@
 # Applied Bayesian Inference
 
-This is the repo in accordance with these two Medium articles:
+This is the repo in accordance with these three Medium articles:
 1. [Applied Bayesian Inference with PyMC3 pt.1](https://towardsdatascience.com/applied-bayesian-inference-pt-1-322b25093f62)
 2. [Applied Bayesian Inference with PyMC3 pt.2](https://towardsdatascience.com/applied-bayesian-inference-with-python-pt-2-80bcd63b507e)
 3. [Applied Bayesian Inference with PyMC3 and Bambi pt.3](https://animadurkar.medium.com/applied-bayesian-inference-with-pymc3-and-bambi-pt-3-d4bfb3211509)
