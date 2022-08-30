@@ -1,4 +1,4 @@
-# Applied Bayesian Inference
+# Applied Bayesian Inference on Sneaker Products
 
 This is the repo in accordance with these three Medium articles:
 1. [Applied Bayesian Inference with PyMC3 pt.1](https://towardsdatascience.com/applied-bayesian-inference-pt-1-322b25093f62)
